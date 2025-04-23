@@ -1,0 +1,105 @@
+
+table
+{
+    width: 100%;
+    height: 98vh;
+    margin: 0;
+}
+
+
+
+#linha1
+{
+    height: 180px;
+     
+}
+#linha2
+{
+    height: 180px;
+}
+#linha3
+{
+    height: 230px;
+}
+#linha4
+{
+    height: 75px;
+}
+#linha5
+{
+    height: 75px;
+}
+
+.td1
+{
+    width: 20%;
+text-align: right;
+background-color: rgb(248 250 26);
+}
+
+.td2
+{
+    background-color: rgb(171 32 4);
+}
+
+.td3
+{
+ width: 16%;
+ background-color: rgb(248 92 2);
+}
+
+.td4
+{
+    width: 20%;
+    vertical-align: text-top;
+    background-color: rgb(62 0 100);
+}
+
+.td5
+{
+    width: 16%;
+    background-color: rgb(62 0 100);
+}
+
+.td6
+{
+    width: 12%;
+    background-color: rgb(62 0 100);
+}
+
+.td7
+{
+    width: 5%;
+    background-color: rgb(248 92 2);
+}
+
+.td8
+{
+    width: 5%;
+    background-color: rgb(62 0 100);
+}
+
+.td9
+{
+  width: 20%;
+  background-color: rgb(62 0 100);
+}
+
+.td10
+{
+    width: 70%;
+    background-color: rgb(62 0 100) ;
+}
+
+.td11
+{
+    background-color: rgb(248 92 2);
+}
+
+.td12
+{
+  padding: 5px;
+  text-justify: auto;
+  -ms-text-size-adjust: auto;
+  background-color: rgb(125 65 126);
+}
